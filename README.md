@@ -13,7 +13,7 @@ Branchs secundárias - usado para códigos em fase de testes/criando
 merge - quando determinado passo rodar certinho = pronto enviamos a branch master como uma nova versão
 
 
-# COMANDOS
+## COMANDOS
 
 git init - iniciar repositório (criar pasta oculta)
 
