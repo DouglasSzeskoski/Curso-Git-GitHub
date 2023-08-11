@@ -1,5 +1,10 @@
 # GIT + GITHUB
 
+ ***DOCUMENTAÇÃO***  ---------> <a>https://docs.github.com/pt</a>
+
+
+## DEFINIÇÕES
+
     commit - versões do código
 
     untracked files - arquivos que não foram add ao controle de versão
